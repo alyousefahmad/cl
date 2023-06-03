@@ -1,0 +1,3 @@
+function clearresult() {
+    result.value = '';
+}
